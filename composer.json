@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "tracy/tracy": "^2.10",
+        "nette/utils": "^4.0"
+    }
+}
